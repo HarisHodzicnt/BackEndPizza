@@ -10,7 +10,7 @@ namespace PizzaShop.Model
     public class Food:IEntity
     {
         public string Name { get; set; }
-        public float Price { get; set; }
+        public int Price { get; set; }
         [NotMapped]
         public IFormFile Photo { get; set; }
         public string PhotoPath { get; set; }

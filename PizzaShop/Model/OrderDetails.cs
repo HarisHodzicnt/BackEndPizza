@@ -20,7 +20,7 @@ namespace PizzaShop.Model
         public string Aditional { get; set; }
         [NotMapped]
         public string Address { get; set; }
-        public string Price { get; set; }
+        public int Price { get; set; }
 
     }
 }
