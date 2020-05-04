@@ -10,7 +10,7 @@ using PizzaShop.Repository;
 
 namespace PizzaShop.Controllers
 {
-    [Route("food")]
+    [Route("api/food")]
     public class FoodController : Controller
     {
         public IRepository<Food,int> foodRepository;

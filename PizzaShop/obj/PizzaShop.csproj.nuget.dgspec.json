@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\PizzaShop\\PizzaShop.csproj": {}
+    "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\backend\\PizzaShop\\PizzaShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\PizzaShop\\PizzaShop.csproj": {
+    "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\backend\\PizzaShop\\PizzaShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\PizzaShop\\PizzaShop.csproj",
+        "projectUniqueName": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\backend\\PizzaShop\\PizzaShop.csproj",
         "projectName": "PizzaShop",
-        "projectPath": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\PizzaShop\\PizzaShop.csproj",
+        "projectPath": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\backend\\PizzaShop\\PizzaShop.csproj",
         "packagesPath": "C:\\Users\\Irfan Hodzic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\PizzaShop\\obj\\",
+        "outputPath": "C:\\Users\\Irfan Hodzic\\Desktop\\Test Pizza\\PizzaaDiCasa\\backend\\PizzaShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irfan Hodzic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
             }
           },
           "imports": [

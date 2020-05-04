@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using PizzaShop.Model;
 namespace PizzaShop.Controllers
 {
-    [Route("account")]
+    [Route("api/account")]
     public class AccountController : Controller
     {
 
